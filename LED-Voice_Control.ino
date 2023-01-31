@@ -16,9 +16,9 @@
 
     
   
-VR myVR(2,3);    // 2:RX 3:TX, you can choose your favourite pins.
+VR myVR(2,3);   
 
-uint8_t records[7]; // save record
+uint8_t records[7]; 
 uint8_t buf[64];
 
 int redPin = 9;
